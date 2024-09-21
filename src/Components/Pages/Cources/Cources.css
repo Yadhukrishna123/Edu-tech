@@ -1,0 +1,61 @@
+.cource-top{
+    margin-bottom: 40px;
+    text-align: center;
+}
+.cource-topp h2{
+    font-size: 15px;
+    margin-bottom: 10rem;
+}
+.section_title{
+    font-size: 30px;
+}
+.cource-topp p{
+    color: var(--heading-color);
+    font-size: 1rem;
+    line-height: 28px;
+}
+
+.cource-wraper{
+    background-color: rgb(63, 122, 166);
+    border-radius: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 80px 23px;
+}
+.cource-item{
+    display: flex;
+    align-items:center;
+    column-gap: 1.2rem;
+    width: 33%;
+}
+.cource-icon{
+    width: 20%;
+    height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5rem;
+    border-radius: 100%;
+    background-color: #fff;
+}
+
+.cource-icon img{
+    width: 100%;
+}
+.cource-contend{
+    width: 80%;
+}
+
+.cource-contend h4{
+    font-size: 0.9rem;
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 0.6rem
+
+}
+.cource-contend p{
+    font-size: 0.8rem;
+    color: #fdff;
+    
+}
